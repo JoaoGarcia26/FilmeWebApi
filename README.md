@@ -1,5 +1,6 @@
 # FilmeWebApi
-Projeto desenvolvido durante o curso ".NET 6: criando uma web API" na Alura
+Projeto desenvolvido durante o curso ".NET 6: criando uma web API" na Alura!
+Curso com excelente didática, consegui absorver 90% do conteudo apresentado.
 
 Documentação:
 
